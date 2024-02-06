@@ -78,9 +78,11 @@ img {
    Hero css setup
    -----------------------------------------*/
 #Hero {
-  background: url(../img/home/Hero-img.jpg);
+  background: url(../img/home/Hero-img2.jpg);
   background-position: top;
   margin-top: -55px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .herotext {
