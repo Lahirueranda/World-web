@@ -34,7 +34,7 @@ a:hover {
 }
 
 .section-padding {
-  padding-top: 120px;
+  padding-top: 100px;
   padding-bottom: 120px;
 }
 
@@ -130,3 +130,4 @@ img {
   text-align: center;
   flex: none;
 }
+
